@@ -9,7 +9,7 @@ __pycache__/
 # 忽略虚拟环境
 venv/
 env/
-
+.venv/
 # 忽略本地配置文件（如 PyCharm 的 .idea）
 .idea/
 .env
