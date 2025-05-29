@@ -13,6 +13,9 @@ env/
 # 忽略本地配置文件（如 PyCharm 的 .idea）
 .idea/
 .env
+.vscode/
+.DS_Store
+.cursor/
 # 忽略日志和输出
 *.log
 *.out
